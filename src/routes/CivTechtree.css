@@ -1,0 +1,13 @@
+#cards {
+  margin: 100px auto 0;
+  display: inline-block;
+  width: 250px;
+  height: 90px;
+  margin-inline: 8px;
+  align-items: center;
+}
+
+img {
+  background-size: contain;
+  height: 50% 50%;
+}

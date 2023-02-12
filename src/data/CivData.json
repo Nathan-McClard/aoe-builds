@@ -2,14 +2,14 @@
   "civilizations": [
     {
       "name": "Britons",
-      "img": "../../public/images/civicon-britons.webp",
+      "img": "../../images/civicon-britons.webp",
       "alt-img": "Briton img",
       "Description": "Britons focus is on building archers throughout the game. Their +1 range in castle age and imperiald age helps their archers take favorable fights against enemy units, as well as pick off siege from a safe distance. In the late game, yeomen increases that range even further",
       "key": "1"
     },
     {
       "name": "Franks",
-      "img": "../../public/images/civicon-franks.webp",
+      "img": "../../images/civicon-franks.webp",
       "Description": "Franks focus is on building archers throughout the game. Their +1 range in castle age and imperiald age helps their archers take favorable fights against enemy units, as well as pick off siege from a safe distance. In the late game, yeomen increases that range even further",
       "key": "2"
     }

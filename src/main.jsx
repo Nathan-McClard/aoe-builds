@@ -4,8 +4,6 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./index.css";
 import Root from "./routes/root";
 import ErrorPage from "./error-page";
-import Contact from "./routes/contact";
-import BuildOrders from "./routes/buildOrders";
 import SampleBuildOrder from "./routes/SampleBuildOrder";
 import Index from "./routes/index";
 import CivTechTree from "./routes/CivTechTree";

@@ -10,7 +10,7 @@
     {
       "name": "Franks",
       "img": "../../images/civicon-franks.webp",
-      "Description": "Franks focus is on building archers throughout the game. Their +1 range in castle age and imperiald age helps their archers take favorable fights against enemy units, as well as pick off siege from a safe distance. In the late game, yeomen increases that range even further",
+      "Description": "Franks get 20% more hit points on their cavalry, which gives them an edge in early feudal age scout wars, as well as in the late game on their cavalier and paladins. This does result in weaker than normal light cavalry as the +20 hit points from bloodlines is better for them.",
       "key": "2"
     }
   ]

@@ -9,7 +9,6 @@ import "./CivTechtree.css";
 
 export default function CivTechTree() {
   return CivData.civilizations.map((curData) => {
-    console.log(curData);
     return (
       <div key={curData.key} id="cards">
         <Card sx={{ maxWidth: 345 }}>
